@@ -1,0 +1,11 @@
+# OS X
+.DS_Store
+
+# Xcode
+xcuserdata
+
+# swift-build
+.build
+
+# scan
+test_output

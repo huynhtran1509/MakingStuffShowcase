@@ -4,16 +4,8 @@
 
 - Apple TV app
 - GitHub for storage
-	- Use git with
-		- GitHubDB?
-		- libgit2?
-		- ObjectiveGit?
-		- Whatever Dan Leehr suggests?
-	- Local cache of the data repository
-		- Initial empty state
-		- Clone repository on first launch
-		- Pull on subsequent launches
-		- Delete and re-clone when pull fails
+	- Simple zip file download
+	- Local cache of the data in the Documents folder
 	- Contribute projects as pull requests
 		- DRI (kevinc) can review and merge
 		- In order to preview, can select a branch to clone in the simulator
